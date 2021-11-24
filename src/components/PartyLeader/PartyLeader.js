@@ -1,4 +1,4 @@
-function PartyLeader(leader) {
+function PartyLeader({leader}) {
     return (
         <div>
             <h2>Party Leader</h2>
